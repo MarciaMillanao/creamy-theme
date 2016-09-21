@@ -1,0 +1,83 @@
+/* Inserta tu código aquí */
+.nav{
+	background:#DA2C38;
+	position: 2%;
+}
+
+li{
+	float: left;
+}
+/*portada*/
+.portada{
+	background: url(../img/creamy.jpg);
+	background-position: center;
+	padding: 15%;
+	opacity: 0.5;
+}	
+
+.portada h1{
+	color:#F4F0BB;
+	font-family:"Merriweather";
+}
+.portada p{
+	color:#F4F0BB;
+}
+
+.fondo{
+	background:#0B0B0B;	
+}
+/*creamy*/
+.creamy{
+	background:#F4F0BB;
+	padding: 5%;
+}
+
+.creamy h2{
+	color: #DA2C38;
+	font-family:"Merriweather";
+	padding: 2%;
+}
+
+.creamy p{
+	color: #DA2C38;
+	padding: 2%;
+	text-align: center;
+}
+/*about*/
+.about {
+	background:#DA2C38;
+	padding: 3%;
+}
+.about h1{
+	color:#F4F0BB;
+	font-family:"Merriweather";
+}
+
+.about p{
+	color:#F4F0BB;
+	padding: 3%;
+}
+/*iconos*/
+.iconos{
+	background:#F4F0BB;
+	padding: 4%;
+}
+
+.iconos h3{
+	color: #DA2C38;
+	font-family:"Merriweather";
+}
+
+.iconos p{
+	color:#DA2C38;
+}
+.glyphicon{
+	font-size: 80px;
+	color:#DA2C38;
+}
+/*footer*/
+.footer{
+	background:#DA2C38;
+	padding: 2%;
+	color:#F4F0BB;
+}
