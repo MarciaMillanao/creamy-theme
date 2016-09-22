@@ -1,12 +1,22 @@
 /* Inserta tu código aquí */
 .nav{
 	background:#DA2C38;
-	position: 2%;
+	padding-top: 1%;
+
 }
 
 li{
 	float: left;
 }
+.crema {
+	color: #F4F0BB;
+	font-size: 20px;
+}
+
+.navbar-default .nav > li > a {
+	color: #F4F0BB;
+}
+
 /*portada*/
 .portada{
 	background: url(../img/creamy.jpg);
@@ -16,11 +26,11 @@ li{
 }	
 
 .portada h1{
-	color:#F4F0BB;
+	color:#FADA84;
 	font-family:"Merriweather";
 }
 .portada p{
-	color:#F4F0BB;
+	color:#FADA84;
 }
 
 .fondo{
@@ -71,7 +81,7 @@ li{
 .iconos p{
 	color:#DA2C38;
 }
-.glyphicon{
+.fa{
 	font-size: 80px;
 	color:#DA2C38;
 }
@@ -80,4 +90,6 @@ li{
 	background:#DA2C38;
 	padding: 2%;
 	color:#F4F0BB;
+	padding-left: 5%;
 }
+
